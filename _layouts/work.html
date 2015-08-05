@@ -9,7 +9,9 @@ layout: default
   </header>
 
   <article class="post-content">
+     page id {{ page.id }}
     {% for work in site.data.works %}
+       work id {{  work.id }}
        {% if work.id==page.id %}
 	  {% for movement in work.mvst %}
 	    <h3>{{ movement.title }}</h3>
