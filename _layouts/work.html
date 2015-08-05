@@ -8,9 +8,12 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
+
+   {{ page.op }}
   <article class="post-content">
     {% for work in site.data.works %}
-       {% if work.id==page.op %}
+       {{ work.id }}
+       {% if work.id==page.op %} ja
 	  {% for movement in work.mvst %}
 	    <h3>{{ movement.title }}</h3>
 	    <iframe src="https://app.box.com/embed/preview/{{ movement.box }}?view=&sort=&direction=ASC&theme=light" width="330" height="88" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
