@@ -9,7 +9,20 @@ layout: default
   </header>
 
   <article class="post-content">
-    work
+    {% for work in site.data.works %}
+       {% if work.id==page.id %}
+	  {% for movement in work.mvst %}
+	    <h3>{{ movement.title }}</h3>
+	    <iframe src="https://app.box.com/embed/preview/{{ movement.box }}?view=&sort=&direction=ASC&theme=light" width="330" height="88" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+	  {% endfor %}
+	  
+	    <h3>Score</h3>
+	  {% for score in work.score %}
+	    <iframe src="https://app.box.com/embed/preview/{{ score.box }}?theme=light&view=&sort=&direction=ASC" width="500" height="730" frameBorder="1" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+	  {% endfor %}
+       {% endif %}
+    {% endfor %}
+    
     {{ content }}
   </article>
 
