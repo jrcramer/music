@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Work</h1>
+    <!--<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p> -->
+  </header>
+
+
+  <article class="post-content">
+	{% for work in site.works %}
+	  <h2>{{ work.id - work.title }}</h2>
+	  {% for movement in work.mvst %}
+	    <h3>{{ movement.title }}</h3>
+	    <iframe src="https://app.box.com/embed/preview/{{ movement.box }}?view=&sort=&direction=ASC&theme=light" width="330" height="88" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+	  {% endfor %}
+	  
+	    <h3>Score</h3>
+	  {% for score in work.score %}
+	    <iframe src="https://app.box.com/embed/preview/{{ score.box }}?theme=light&view=&sort=&direction=ASC" width="500" height="730" frameBorder="1" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+	  {% endfor %}
+	{% endfor %}
+  </article>
+</div>
