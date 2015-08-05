@@ -6,7 +6,7 @@ permalink: /works/
  
 <ul class="entries">
   {% for post in site.posts %}
-  {% if post.type=="work" %}
+  {% if post.layout=="work" %}
   <li>
     <a href="{{ post.url }}">
       <h3>{{ post.title }}</h3>
