@@ -10,7 +10,7 @@ layout: default
 
 
   <article class="post-content">
-	{% for work in site.works %}
+	{% for work in site.data.works %}
 	  <h2>{{ work.id - work.title }}</h2>
 	  {% for movement in work.mvst %}
 	    <h3>{{ movement.title }}</h3>
