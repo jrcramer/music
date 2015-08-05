@@ -9,10 +9,8 @@ layout: default
   </header>
 
   <article class="post-content">
-     page id {{ page.op }}
     {% for work in site.data.works %}
-       work id {{  work.id }}
-       {% if work.id==page.id %}
+       {% if work.id==page.op %}
 	  {% for movement in work.mvst %}
 	    <h3>{{ movement.title }}</h3>
 	    <iframe src="https://app.box.com/embed/preview/{{ movement.box }}?view=&sort=&direction=ASC&theme=light" width="330" height="88" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
