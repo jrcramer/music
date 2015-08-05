@@ -3,13 +3,6 @@ layout: page
 title: Works
 permalink: /works/
 ---
-
-
-<section class="content">
-  <h2>Portfolio</h2>
- 
-  <p>Check out my images below!</p>
-</section>
  
 <ul class="entries">
   {% for post in site.posts %}
