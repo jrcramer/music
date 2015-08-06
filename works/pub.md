@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Works that are performed
 ---
- 
+
+# Works that are published
+
 <ul class="entries">
   {% for post in site.posts %}
-    {% assign b_performed = false %}
+    {% assign b_published = false %}
     {% for tag in post.tags %}
-      {% if tag == 'perf' %}{% assign b_performed = true %}{% endif %}
+      {% if tag == 'pub' %}{% assign b_published = true %}{% endif %}
     {% endfor %}
-  {% if b_performed %}
+  {% if b_published %}
   <li>
     <a href="/music{{ post.url }}">
       {{ post.title }}
