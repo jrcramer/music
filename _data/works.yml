@@ -1,3 +1,9 @@
+- title: "Lullaby"
+  subtitle: "phos hilaron and baruch hamapil"
+
+- title: "“and they're all made out of ticky tacky”"
+  subtitle: "Chorale Prelude to Malvina Reynolds' Little Boxes"
+
 - title: "Wanneer Hij komt"
   id: "092"
   mvts:
@@ -45,8 +51,11 @@
   - title: "6. Fuga"
   - title: "7. Postlude"
 
+- title: "Sinfonietta"
+  id: "076"
+
 - title: "Fuga"
-  subtitle: ""
+  subtitle: "ad nisi"
   id: "074"
   mvts:
   - title: "premiere recording"
@@ -57,6 +66,9 @@
 
 - title: "HaLevi Songcylce"
   id: "072"
+
+- title: "Stringquartet 2"
+  id: "071"
 
 - title:	"Sonata for Saxophone and Piano"
   id:		"070"
@@ -72,6 +84,11 @@
   score:
   - box: "bgrqp3sv853aehdz5rpwkc3tmi7zzp4x"
 
+- title: "3 Elegy's"
+  id: "069"
 
+- title: "Preludes and Fugues"
+  id: "059"
 
-
+- title: "4 Lamenti"
+  id: "057"
