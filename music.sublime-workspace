@@ -28,18 +28,18 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2013-5-28-toccatas-hymns.md",
+			"file": "works/index.md",
 			"settings":
 			{
-				"buffer_size": 139,
+				"buffer_size": 320,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_config.yml",
+			"file": "_posts/2014-3-31-Puddle.md",
 			"settings":
 			{
-				"buffer_size": 434,
+				"buffer_size": 133,
 				"line_ending": "Unix"
 			}
 		}
@@ -252,43 +252,49 @@
 		"/Volumes/JRC/jaap/Sites/music",
 		"/Volumes/JRC/jaap/Sites/music/_data",
 		"/Volumes/JRC/jaap/Sites/music/_layouts",
-		"/Volumes/JRC/jaap/Sites/music/_posts",
+		"/Volumes/JRC/jaap/Sites/music/about",
 		"/Volumes/JRC/jaap/Sites/music/works"
 	],
 	"file_history":
 	[
-		"/Volumes/JRC/jaap/Sites/music/works/index.md",
+		"/Volumes/JRC/jaap/Sites/music/works/pub.md",
+		"/Volumes/JRC/jaap/Sites/music/_config.yml",
+		"/Volumes/JRC/jaap/Sites/music/about/index.md",
+		"/Volumes/JRC/jaap/Sites/music/works/perf.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2014-12-6-wanneer.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2014-3-31-Puddle.md",
 		"/Volumes/JRC/jaap/Sites/music/_posts/2015-08-05-newsite.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2015-2-14-tickytacky.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2015-8-1-revision_ballade.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2015-8-6-CanonsOfDordt.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2013-5-28-toccatas-hymns.md",
 		"/Volumes/JRC/jaap/Sites/music/_layouts/work.html",
+		"/Volumes/JRC/jaap/Sites/music/_layouts/post.html",
+		"/Volumes/JRC/jaap/Sites/music/_layouts/page.html",
+		"/Volumes/JRC/jaap/Sites/music/_layouts/default.html",
+		"/Volumes/JRC/jaap/Sites/music/index.html",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2013-3-6-miBavel.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2012-5-1-ballade-cello-orch.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2012-12-1-Eludes.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2010-11-1-Fuga.md",
+		"/Volumes/JRC/jaap/Sites/music/_posts/2010-04-01-070.md",
+		"/Volumes/JRC/jaap/Sites/music/_layouts/page_noindex.html",
+		"/Volumes/JRC/jaap/Sites/music/works/index.md",
 		"/Volumes/JRC/jaap/Sites/music/_data/works.yml",
 		"/Volumes/JRC/jaap/Sites/music/works/perf.html",
 		"/Volumes/JRC/jaap/Sites/music/_sass/_layout.scss",
-		"/Volumes/JRC/jaap/Sites/music/_config.yml",
 		"/Volumes/JRC/jaap/Sites/music/works/pub.html",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2015-2-14-tickytacky.md",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2013-5-28-toccatas-hymns.md",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2014-12-6-wanneer.md",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2014-3-31-Puddle.md",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2012-12-1-Eludes.md",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2013-3-6-miBavel.md",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2010-11-1-Fuga.md",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2015-8-1-revision_ballade.md",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2012-5-1-ballade-cello-orch.md",
-		"/Volumes/JRC/jaap/Sites/music/_posts/2010-04-01-070.md",
 		"/Volumes/JRC/jaap/Sites/music/works/index.html",
-		"/Volumes/JRC/jaap/Sites/music/index.html",
 		"/Volumes/JRC/jaap/Sites/music/_posts/2013-03-06-miBavel.md",
 		"/Volumes/JRC/jaap/Sites/music/_posts/2014-03-31-Puddle.md",
 		"/Volumes/JRC/jaap/Sites/music/works.md",
 		"/Volumes/JRC/jaap/Sites/music/_layouts/tag_index.html",
 		"/Volumes/JRC/jaap/Sites/music/_plugins/_tag_gen.rb",
-		"/Volumes/JRC/jaap/Sites/music/_layouts/post.html",
 		"/Volumes/JRC/jaap/Sites/music/about/bioEN.md",
 		"/Volumes/JRC/jaap/Sites/music/_site/2010/11/01/Fuga.html",
 		"/Volumes/JRC/jaap/Sites/music/about.md",
 		"/Volumes/JRC/jaap/Sites/music/_site/tag/074/index.html",
 		"/Volumes/JRC/jaap/Sites/music/_plugins/categories.rb",
-		"/Volumes/JRC/jaap/Sites/music/_layouts/page.html",
 		"/Volumes/JRC/jaap/Dropbox/blog/music/index.htm",
 		"/Volumes/JRC/jaap/Dropbox/mus/096 - Lullaby - Rautavaara Contest Helsinki Choir/texts.tex",
 		"/Volumes/JRC/jaap/Dropbox/artikelen/judaica/blogidee/keten.md",
@@ -378,13 +384,7 @@
 		"/Volumes/JRC/jaap/Sefaria_Acc/Eichah_Rabbah_1.txt",
 		"/Volumes/JRC/jaap/Sefaria_Acc/Targum_Onkelos_Exodus_1.txt",
 		"/Volumes/JRC/jaap/Sefaria_Acc/Mishnah_Berakhot_HE.txt",
-		"/Volumes/JRC/jaap/Sefaria_Acc/Mishnah_Berakhot_EN.txt",
-		"/Volumes/JRC/jaap/Sefaria_Acc/Song_3.txt",
-		"/Volumes/JRC/jaap/Sefaria_Acc/Song_2.txt",
-		"/Volumes/JRC/jaap/Sefaria_Acc/song_EN.txt",
-		"/Volumes/JRC/jaap/Sefaria_Acc/song_HE.txt",
-		"/Volumes/JRC/jaap/Sefaria_Acc/Lev_2.txt",
-		"/Volumes/JRC/jaap/Sefaria_Acc/Onkelos_Leviticus_1.txt"
+		"/Volumes/JRC/jaap/Sefaria_Acc/Mishnah_Berakhot_EN.txt"
 	],
 	"find":
 	{
@@ -556,24 +556,54 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2013-5-28-toccatas-hymns.md",
+					"file": "works/index.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 139,
+						"buffer_size": 320,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								87,
-								87
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2014-3-31-Puddle.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
 							]
 						],
 						"settings":
@@ -587,36 +617,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 434,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								427,
-								427
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "yaml",
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
