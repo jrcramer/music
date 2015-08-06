@@ -1,3 +1,63 @@
+- title: "Wanneer Hij komt"
+  id: "092"
+  mvts:
+  - title: "compilation of premiere performance"
+    rec: "Patrick van der Linden: Ars Musica Choirs and Orchestra<br />Gerben Budding, organ<br />Text by Sytze de Vries<br />December 6th 2014 - Oudewater"
+    yt: "H6pB_GWaFw8"
+
+- title: "Puddle"
+  id: "091"
+  EMFpic: "http://www.musica-ferrum.com/shop_files/images/slyorig_d2fb166fcd54298639c46473505631eb.jpg"
+  EMFlink: "http://www.musica-ferrum.com/catalog/viewitem.php?show=69"
+
+- title: "Introduction, Toccatas and Hymns"
+  id: "084"
+  EMFpic: "http://www.musica-ferrum.com/shop_files/images/slyorig_78f6a76c32fc90b4c75bf022234592cc.jpg"
+  EMFlink: "http://www.musica-ferrum.com/catalog/viewitem.php?show=60"
+  mvts:
+  - title: "premiere recording"
+    rec: "John Solomons, piano<BR>July 13th 2013 - UTA Fine Arts Building, Arlington, TX"
+    box: "2c8l3xh9ytxrscwooeln2p9u3cee4oz4"
+
+- title: "miBavel"
+  id: "083"
+  mvts:
+  - title: "premiere recording"
+    rec: "Nederlands Kamerkoor o.l.v. Frank Hameleers<br />Harmen Trimp, orgel<br />June 8th 2013 - Bovenkerk, Kampen"
+    box: "wsv62632d4vhtzvvmusizr87ffcgf5mh"
+
+- title: "Ballade for Cello and Orchestra"
+  id: "078"
+  mvts:
+  - title: "Ballade"
+#    box: "wsv62632d4vhtzvvmusizr87ffcgf5mh"
+
+- title: "Eludes"
+  id: "077"
+  EMFpic: "http://www.musica-ferrum.com/shop_files/images/slyorig_c6dd4fc6c3a04104e396723dbaf16809.png"
+  EMFlink: "http://www.musica-ferrum.com/catalog/viewitem.php?show=55"
+  mvts:
+  - title: "1. Elude"
+  - title: "2. Elude"
+  - title: "3. Elude"
+  - title: "4. Interlude"
+  - title: "5. Elude <i>fanfare</i>"
+  - title: "6. Fuga"
+  - title: "7. Postlude"
+
+- title: "Fuga"
+  subtitle: ""
+  id: "074"
+  mvts:
+  - title: "premiere recording"
+    rec: "Wout van Andel, organ<br />May 11th 2011 - Bovenkerk, Kampen"
+    box: "aq6in3ktl6ly8s7p2nsyhukduahwdzkb"
+  score: 
+  - box: "iq64ke7g5v35mh92feynxm1thagyzruq"
+
+- title: "HaLevi Songcylce"
+  id: "072"
+
 - title:	"Sonata for Saxophone and Piano"
   id:		"070"
   mvts:
@@ -11,4 +71,7 @@
     box: "knne1k04zi0ob4a11eygus4tik1udtkk"
   score:
   - box: "bgrqp3sv853aehdz5rpwkc3tmi7zzp4x"
+
+
+
 

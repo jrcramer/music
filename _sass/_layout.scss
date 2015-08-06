@@ -227,10 +227,22 @@
     }
 
     h4 {
-        font-size: 20px;
+        font-size: $small-font-size;
+        margin-bottom: 0px;
+        font-weight: bold;
 
         @include media-query($on-laptop) {
             font-size: 18px;
         }
     }
+
+    .recording {
+        font-size: $small-font-size;
+        font-style: italic;
+        color: $grey-color;
+    }
+}
+
+.side_pic {
+    float: right;
 }
