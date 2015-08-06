@@ -18,12 +18,12 @@ layout: default
       {% endfor %}
       {% if page_tag_inDB %}
         {% if work.EMFlink %}
-          <p class="side_pic">Published<br />
+          <div class="side_pic"><h4>Published</h4>
           <a href="{{work.EMFlink}}"><img src="{{work.EMFpic}}" width="160" border=1></a>
-          </p>
+          </div>
         {% endif %}
         {% for movement in work.mvts %}
-          <h4>- {{ movement.title }}</h4>
+          <h4>{{ movement.title }}</h4>
           {% if movement.rec %}<p class="recording">{{ movement.rec }}</p>{% endif %}
           {% if movement.box %}
             <iframe src="https://app.box.com/embed/preview/{{ movement.box }}?view=&sort=&direction=ASC&theme=dark" width="330" height="88" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>

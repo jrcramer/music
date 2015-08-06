@@ -1,7 +1,7 @@
 ---
 layout: work
 title: miBavel (2013)
-tags: work 083
+tags: work 083 hcc perf
 ---
 
 Motet for SATB and Organ. Written for the 2013 edition of the [Hinsz Composition Concours](http://www.hinszconcours.nl), finalist entry.

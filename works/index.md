@@ -15,3 +15,5 @@ permalink: /works/
   {% endif %}
   {% endfor %}
 </ul>
+
+Works that are [performed](perf.html) or [published](pub.html)
