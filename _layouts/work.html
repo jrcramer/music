@@ -30,9 +30,10 @@ layout: default
           {% endif %}
           {% if movement.soundcloud %}{% endif %}
           {% if movement.yt %}
-            <iframe id="ytplayer" type="text/html" width="640" height="390"
-  src="http://www.youtube.com/embed/{{ movement.yt }}?autoplay=0"
-  frameborder="0"/>
+            <div class="videoWrapper">
+            <iframe id="ytplayer" type="text/html" src="http://www.youtube.com/embed/{{ movement.yt }}?autoplay=0"
+  frameborder="0" />
+            </div>
           {% endif %}
         {% endfor %}
         {% if work.score %}

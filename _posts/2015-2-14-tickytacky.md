@@ -2,6 +2,7 @@
 layout: work
 title: “and they're all made out of ticky tacky”
 tags: work 093
+author: Jaap Cramer
 ---
 
 *Chorale Prelude to Malvina Reynolds' Little Boxes*
