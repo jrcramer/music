@@ -1,7 +1,7 @@
 # Site settings
 title: Jaap Cramer
 #email: your-email@domain.com
-description: Showcasing music composed by Jaap Cramer.
+description: Showcasing my music
 baseurl: "/music" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jaapcramer

@@ -1,10 +1,16 @@
+- title: "Für Eline"
+  id: "098"
+
+- title: "Canons for Clarinet"
+  id: "097"
+
 - title: "Lullaby"
   subtitle: "phos hilaron and baruch hamapil"
   id: "096"
 
-
 - title: "“and they're all made out of ticky tacky”"
   subtitle: "Chorale Prelude to Malvina Reynolds' Little Boxes"
+  id: "094"
   ens: [pno, hps, org]
 
 - title: "Wanneer Hij komt"
