@@ -19,6 +19,11 @@
   subtitle: "Chorale Prelude to Malvina Reynolds' Little Boxes"
   id: "094"
   ens: [pno, hps, org]
+  mvts:
+  - title: "mp3"
+    box: "eejhiayl4viam7h5dvggodv9wub65cwp"
+  score: 
+  - box: "cxfgyzcn75ljs0gcvp2az0gb6v6kw8ut"
 
 - title: "Wanneer Hij komt"
   id: "092"
