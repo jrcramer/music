@@ -1,5 +1,5 @@
 # Site settings
-title: music
+title: Jaap Cramer
 #email: your-email@domain.com
 description: Showcasing music composed by Jaap Cramer.
 baseurl: "/music" # the subpath of your site, e.g. /blog/
@@ -10,5 +10,8 @@ github_username:  jrcramer
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+markdown_ext: "markdown,mkdown,mkdn,mkd,md,mmd"
+
 #collections:
 #- works

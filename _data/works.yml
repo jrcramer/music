@@ -1,11 +1,15 @@
 - title: "Lullaby"
   subtitle: "phos hilaron and baruch hamapil"
+  id: "096"
+
 
 - title: "“and they're all made out of ticky tacky”"
   subtitle: "Chorale Prelude to Malvina Reynolds' Little Boxes"
+  ens: [pno, hps, org]
 
 - title: "Wanneer Hij komt"
   id: "092"
+  ens: cchoir, ssa, satb, org, strorch
   mvts:
   - title: "compilation of premiere performance"
     rec: "Patrick van der Linden: Ars Musica Choirs and Orchestra<br />Gerben Budding, organ<br />Text by Sytze de Vries<br />December 6th 2014 - Oudewater"
@@ -13,11 +17,13 @@
 
 - title: "Puddle"
   id: "091"
+  ens: pno
   EMFpic: "http://www.musica-ferrum.com/shop_files/images/slyorig_d2fb166fcd54298639c46473505631eb.jpg"
   EMFlink: "http://www.musica-ferrum.com/catalog/viewitem.php?show=69"
 
 - title: "Introduction, Toccatas and Hymns"
   id: "084"
+  ens: pno
   EMFpic: "http://www.musica-ferrum.com/shop_files/images/slyorig_78f6a76c32fc90b4c75bf022234592cc.jpg"
   EMFlink: "http://www.musica-ferrum.com/catalog/viewitem.php?show=60"
   mvts:
@@ -27,9 +33,10 @@
 
 - title: "miBavel"
   id: "083"
+  ens: satb, org
   mvts:
   - title: "premiere recording"
-    rec: "Nederlands Kamerkoor o.l.v. Frank Hameleers<br />Harmen Trimp, orgel<br />June 8th 2013 - Bovenkerk, Kampen"
+    rec: "Frank Hameleers: Nederlands Kamerkoor<br />Harmen Trimp, organ<br />June 8th 2013 - Bovenkerk, Kampen"
     box: "wsv62632d4vhtzvvmusizr87ffcgf5mh"
 
 - title: "Ballade for Cello and Orchestra"
@@ -40,7 +47,8 @@
 
 - title: "Eludes"
   id: "077"
-  EMFpic: "http://www.musica-ferrum.com/shop_files/images/slyorig_c6dd4fc6c3a04104e396723dbaf16809.png"
+  ens: pno
+  EMFpic: "../../../img/scores/eludes.png"
   EMFlink: "http://www.musica-ferrum.com/catalog/viewitem.php?show=55"
   mvts:
   - title: "1. Elude"
@@ -54,9 +62,13 @@
 - title: "Sinfonietta"
   id: "076"
 
+- title: "Holodomor"
+  subtitle: ""
+
 - title: "Fuga"
   subtitle: "ad nisi"
   id: "074"
+  ens: org
   mvts:
   - title: "premiere recording"
     rec: "Wout van Andel, organ<br />May 11th 2011 - Bovenkerk, Kampen"
@@ -72,6 +84,7 @@
 
 - title:	"Sonata for Saxophone and Piano"
   id:		"070"
+  ens: asax, pno
   mvts:
   - title: "1. Pesante"
     box: "t7lgwmzvj4mj0r4p2c4cfermdxhwj393"
@@ -89,6 +102,8 @@
 
 - title: "Preludes and Fugues"
   id: "059"
+  ens: org
 
 - title: "4 Lamenti"
   id: "057"
+  ens: org
